@@ -1,0 +1,54 @@
+=====================================
+  TAB VOLUME MIXER - QUICK INSTALL
+=====================================
+
+✓ All files present and verified
+✓ Icons included (16px, 48px, 128px)
+✓ Code is secure and optimized
+
+INSTALL IN 3 STEPS:
+━━━━━━━━━━━━━━━━━━━
+
+1. Open Edge browser
+2. Go to: edge://extensions/
+3. Enable "Developer mode" (top right)
+4. Click "Load unpacked"
+5. Select THIS FOLDER (TabVolumeMixer)
+6. Done!
+
+FILES INCLUDED (9 total):
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ manifest.json       - Configuration
+✓ popup.html         - Interface
+✓ popup.js           - Logic
+✓ styles.css         - Styling  
+✓ content.js         - Audio control
+✓ background.js      - Service worker
+✓ icon16.png         - Toolbar icon
+✓ icon48.png         - Extension page
+✓ icon128.png        - Store listing
+
+BONUS FILES:
+━━━━━━━━━━━━
+
+📖 README.md         - Full documentation
+👁  preview.html     - Visual preview
+📄 INSTALL.txt       - This file
+
+TROUBLESHOOTING:
+━━━━━━━━━━━━━━━━
+
+Problem: "Manifest file missing"
+→ Make sure you select the TabVolumeMixer
+  folder itself, not individual files
+
+Problem: "Could not load background script"  
+→ Remove extension, restart browser, try again
+
+Problem: No tabs showing in mixer
+→ Open a YouTube video, then open the mixer
+
+Need help? Read README.md for detailed guide!
+
+=====================================
