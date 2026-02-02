@@ -278,7 +278,11 @@ None currently! If you find a bug, try:
 
 ## 📜 License
 
-Free to use and modify for personal use.
+This project is released into the **public domain** under [The Unlicense](https://unlicense.org).
+
+You are free to copy, modify, publish, use, compile, sell, or distribute this software for any purpose, commercial or non-commercial, without restriction.
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
